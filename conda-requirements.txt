@@ -1,0 +1,17 @@
+numpy=1.10.1=py27_0
+pandas=0.17.0=np110py27_0
+flask=0.10.1=py27_1
+jinja2=2.8=py27_0
+redis=2.6.9=0
+redis-py=2.10.3=py27_0
+six=1.10.0=py27_0
+requests=2.8.1=py27_0
+tornado=4.2.1=py27_1
+sockjs-tornado=1.0.1=py27_0
+werkzeug=0.10.4=py27_0
+markupsafe=0.23=py27_0
+greenlet=0.4.7=py27_0
+pyzmq=14.7.0=py27_1
+pyyaml=3.11=py27_1
+DateUtil
+bokeh=0.10.0=py27_0
